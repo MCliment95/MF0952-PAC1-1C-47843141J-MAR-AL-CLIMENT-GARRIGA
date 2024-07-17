@@ -1,0 +1,13 @@
+Enganxa aquí abaix el teu historial de línia de comandos:
+dir
+cd Documents
+dir
+ md modul3
+dir
+ move vacances.txt modul3
+cd modul3
+rename vacances.txt dimecres.txt
+dir
+ doskey /history
+
+(Nota:no he pogut guardar el document a C/ i l'he passat directament a documents)
